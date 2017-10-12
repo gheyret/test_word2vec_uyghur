@@ -7,17 +7,17 @@ https://drive.google.com/file/d/0B3OaZ1ZVPcTXRWptYmdVSGZ0Nmc/view?usp=sharing
 din chüshürüp ishliting.
 
 ## Töwendikisi "qeshqer" dégen soz bilen oxshiship kétidighan sözler.</br>
-قەشقەر :</br>
-	ئاقسۇ</br>
-	خوتەن</br>
-	تۇرپان</br>
-	يەكەن</br>
-	ئاتۇش</br>
-	قومۇل</br>
-	قۇمۇل</br>
-	كۇچا</br>
-	كۇچار</br>
-	غۇلجا</br>
+#### قەشقەر :</br>
+*	ئاقسۇ</br>
+*	خوتەن</br>
+*	تۇرپان</br>
+*	يەكەن</br>
+*	ئاتۇش</br>
+*	قومۇل</br>
+*	قۇمۇل</br>
+*	كۇچا</br>
+*	كۇچار</br>
+*	غۇلجا</br>
 
 ## Töwendiki bolsa "güzel" dégen soz bilen oxshiship kétidighan sözler.</br>
 گۈزەل:</br>
