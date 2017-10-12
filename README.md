@@ -6,7 +6,7 @@ shunga uni
 https://drive.google.com/file/d/0B3OaZ1ZVPcTXRWptYmdVSGZ0Nmc/view?usp=sharing
 din chüshürüp ishliting.
 
-## Töwendikisi "qeshqer" dégen soz bilen oxshiship kétidighan sözler.</br>
+## Töwendikisi "قەشقەر" dégen soz bilen oxshiship kétidighan sözler.</br>
 #### قەشقەر :</br>
 *	ئاقسۇ</br>
 *	خوتەن</br>
@@ -19,7 +19,7 @@ din chüshürüp ishliting.
 *	كۇچار</br>
 *	غۇلجا</br>
 
-## Töwendiki bolsa "güzel" dégen soz bilen oxshiship kétidighan sözler.</br>
+## Töwendiki bolsa "گۈزەل" dégen soz bilen oxshiship kétidighan sözler.</br>
 #### گۈزەل:</br>
 -	گۇزەل</br>
 -	يارقىن</br>
