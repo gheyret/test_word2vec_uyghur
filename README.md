@@ -33,4 +33,4 @@ din chüshürüp ishliting.
 -	جۇشقۇن</br>
 
 ##### Diqqet:
-   oxshiship kétidighan sözdin 10 köpnimu körsetkili bolidu.
+   oxshiship kétidighan sözdin 10 din köpnimu körsetkili bolidu.
