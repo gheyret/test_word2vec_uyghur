@@ -20,7 +20,7 @@ din chüshürüp ishliting.
 *	غۇلجا</br>
 
 ## Töwendiki bolsa "güzel" dégen soz bilen oxshiship kétidighan sözler.</br>
-## گۈزەل:</br>
+#### گۈزەل:</br>
 -	گۇزەل</br>
 -	يارقىن</br>
 -	رەڭدار</br>
@@ -32,5 +32,5 @@ din chüshürüp ishliting.
 -	جەزبىدار</br>
 -	جۇشقۇن</br>
 
-## Diqqet:
+##### Diqqet:
    oxshiship kétidighan sözdin 10 köpnimu körsetkili bolidu.
