@@ -3,7 +3,7 @@ Bu Uyghur yéziqini Pythonning gensim ambiridiki word2vec algorizimida sinap baq
 
 Buning ishletken tékist höjjiti bek chong, bu yerge chiqarghili bolmidi.
 shunga uni
-https://drive.google.com/file/d/0B3OaZ1ZVPcTXRWptYmdVSGZ0Nmc/view?usp=sharing
+https://drive.google.com/open?id=0B3OaZ1ZVPcTXTGE2QnVjSWZkLUU
 din chüshürüp ishliting.
 
 ## Töwendikisi "قەشقەر" dégen söz bilen oxshiship kétidighan sözler.</br>
