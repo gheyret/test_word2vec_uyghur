@@ -37,6 +37,6 @@ din chüshürüp ishliting.
    oxshiship kétidighan sözdin 10 din köpnimu körsetkili bolidu.
 
 Word2Vec sözni san bilen ipadilep uni chongqur öginish(deep learning) téxnikisini ishlitip sözlerning munasiwiti we bashqa her xil uchurlargha érishishni meqset qilghan ambar.
-bu algorizim heqqide téximu choqur bilmekchi bolsingiz.
+bu algorizim heqqide téximu chongqur bilmekchi bolsingiz.
 http://mccormickml.com/2016/04/19/word2vec-tutorial-the-skip-gram-model/
 ni ziyaret qiling. nahayiti tepsiliy chüshendürüptu.
