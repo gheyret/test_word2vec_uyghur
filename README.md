@@ -4,7 +4,7 @@ Bu Uyghur yéziqini Pythonning gensim ambiridiki word2vec algorizimida sinap baq
 Buning ishletken tékist höjjiti bek chong, bu yerge chiqarghili bolmidi.
 shunga uni
 https://drive.google.com/drive/folders/0B3OaZ1ZVPcTXVzJ0VnFWeUhGNFE?resourcekey=0-E8YmmFmH4vmpb3jrwoeI5Q&usp=sharing
-din chüshürüp ishliting.
+din uyghur_pakiz.zip ni chüshürüp ishliting.
 
 ## Töwendikisi "قەشقەر" dégen söz bilen oxshiship kétidighan sözler.</br>
 #### قەشقەر :</br>
